@@ -15,13 +15,16 @@ https://pypi.org/project/Pillow/
 
 ### Installation:
 
-Make sure you’ve installed Terragen 4 Professional v4.6.31 or greater on your computer, and installed the terragen_rpc module and Pillow fork, via the pip install command.
+Make sure you’ve installed Terragen 4 Professional v4.6.31 or greater on your computer, and installed the terragen_rpc module and Pillow fork, via the pip install command. <br>
+
 In this repository you’ll find the Python script “tg_crop_region_presets.py” and supporting example content. The images folder contains an icon file, should you wish to create a shortcut on your desktop for the python script, as well as the bitmap images used for the button widgets on the graphic interface.
 
 ### Usage:
 ![tg_crop_region_presets GUI](images/tg_crop_region_presets_gui.jpg) <br>
 
-The interface is divided into two main sections.  The upper section allows you to choose a renderer from the drop-down list or refresh the list, as well as to activate, deactivate, or reset the renderer’s crop region feature.  The lower section is divided into tabs, based on common resolution sub-divisions, such as half, thirds, quarters, etc.  Clicking on a button will apply the crop region preset to the  selected renderer.  The Custom tab allows you to copy the current crop region to a buffer, or to apply the contents of the buffer to the selected renderer.  An approximation of the buffer’s content is displayed as well. <br>
+The interface is divided into two main sections.  The upper section allows you to choose a renderer from the drop-down list or refresh the list, as well as to activate, deactivate, or reset the renderer’s crop region feature.  The lower section is divided into tabs, based on common resolution sub-divisions, such as half, thirds, quarters, etc.  Clicking on a button will apply the crop region preset to the  selected renderer.  <br> 
+
+The Custom tab allows you to copy the current crop region to a buffer, or to apply the contents of the buffer to the selected renderer.  An approximation of the buffer’s content is displayed as well. <br>
 
 ![Custom presets tab](images/tg_crop_region_presets_gui_custom.jpg) <br>
 
