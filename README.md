@@ -1,5 +1,9 @@
 # tg-crop-region-presets
+&#9888; This Python script is now part of the <b>redmaw-tg-toolkit</b> repository, and will no longer be developed as a stand-alone script in this repository.
 
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit) for the redmaw-tg-toolkit repository.<br> 
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit/tree/main/scripts/tg-crop-region-presets) to go directly to the <i>tg-crop-region-presets</i> folder in the redmaw-tg-toolkit.
+<hr>
 A fully functional Python script implementing Terragen 4 Professional’s remote procedure call (RPC) feature to allow the user to apply crop region presets to a selected renderer in the active Terragen project.  Custom crop region presets can be saved to disk and reloaded.
 
 ### Requirements:
